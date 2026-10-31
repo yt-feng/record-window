@@ -1,0 +1,5 @@
+.DS_Store
+*.age
+*.key
+.env
+__pycache__/
